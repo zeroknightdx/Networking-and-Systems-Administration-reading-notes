@@ -1,2 +1,3 @@
 # ops_301_reading_notes
-# this is a collection of my ops 301 reading notes.
+
+please find my reading notes located in my Wiki
