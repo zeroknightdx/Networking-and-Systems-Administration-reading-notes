@@ -1,3 +1,3 @@
-# ops_301_reading_notes
+# Networking and Systems Administration reading notes
 
 please look in my Wiki for my reading notes located
